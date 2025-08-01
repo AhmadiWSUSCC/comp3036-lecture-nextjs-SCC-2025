@@ -59,8 +59,10 @@ export const posts: Post[] = [
        Sed exercitationem placeat consectetur nulla deserunt vel 
        iusto corrupti dicta laboris incididunt.`,
     content: content + " ... post2",
+    //imageUrl:
+    //  "https://plus.unsplash.com/premium_photo-1661342428515-5ca8cee4385a?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3",
     imageUrl:
-      "https://plus.unsplash.com/premium_photo-1661342428515-5ca8cee4385a?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "",
     date: new Date("Mar 16, 2020"),
     category: "React",
     tags: "Front-End,Optimisation",
